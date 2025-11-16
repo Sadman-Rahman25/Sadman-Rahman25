@@ -1,5 +1,7 @@
 ## Hey there 👋
-
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 <h1 align="center"> I'm Sadman Rahman</h1>
 <br><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1100"><br>
 <h3 align="center">Driven and analytical Computer Science student passionate about connecting technology and business strategy.</h3>
